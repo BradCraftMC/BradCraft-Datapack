@@ -1,0 +1,1 @@
+tellraw @a {"text": "BRADCRAFT DATAPACK LOADED SUCCESSFULLY", "color": "#398de2"}
